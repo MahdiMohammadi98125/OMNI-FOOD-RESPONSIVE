@@ -137,10 +137,10 @@ Instead 1rem = 1em = 16px;
     visibility: visible;
     transform: translateX(0);
   }
-  .nav-open .icon-mobile-nav[alt="name-close"] {
+  .nav-open .icon-mobile-nav[name="close-outline"] {
     display: block;
   }
-  .nav-open .icon-mobile-nav[alt="name-menu"] {
+  .nav-open .icon-mobile-nav[name="menu-outline"] {
     display: none;
   }
   .main-nav-list {
